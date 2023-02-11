@@ -23,3 +23,9 @@ gabriel = {
 # 2.2 Give me a payrise
 
 
+
+shopping_cart = {
+  banana: 1,
+  apple: 50,
+  
+}
