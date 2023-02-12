@@ -1,2 +1,3 @@
 class GamesController
+# TODO
 end
